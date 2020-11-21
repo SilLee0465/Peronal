@@ -66,6 +66,7 @@ public class PlayerController : MonoBehaviour
         else
         {
             //game Over
+            FindObjectOfType<AudioManager>().Play("Death");
             animator.Play("Death");
         }
     }
