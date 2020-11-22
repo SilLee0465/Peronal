@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private LaneChanger laneChanger = null;
+    [SerializeField] private GameObject gameOver;
     private Animator animator;
     private float isHurtTimer = 5.0f;
     private float hurtTimer = 5.0f;
@@ -67,6 +68,7 @@ public class PlayerController : MonoBehaviour
         {
             //game Over
             FindObjectOfType<AudioManager>().Play("Death");
+            gameOver.SetActive(true);
             animator.Play("Death");
         }
     }
