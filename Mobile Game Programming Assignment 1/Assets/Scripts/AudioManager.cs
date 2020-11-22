@@ -7,7 +7,6 @@ using UnityEngine.Audio;
 public class AudioManager : MonoBehaviour
 {
     public Sound[] sounds;
-
     public static AudioManager instance;
 
     void Awake()
