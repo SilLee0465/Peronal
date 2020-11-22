@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e271e680f7fc5c47a68ead89e87cb9f</guid>
+    <fileName>Assets/Scripts/AudioManager.cs</fileName>
+    <timeStamp>2020-11-22T17:52:13.7313642+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31853e48f4b6eb440a992c378c4a7fe1</guid>
+    <fileName>Assets/Scripts/CameraShake.cs</fileName>
+    <timeStamp>2020-11-21T13:28:24.8051921+08:00</timeStamp>
+    <typeFullName>
+      <string>CameraShake</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>44a70f47e0959954296f0b459d4ae823</guid>
+    <fileName>Assets/Scripts/LaneChanger.cs</fileName>
+    <timeStamp>2020-11-21T12:58:02.2896068+08:00</timeStamp>
+    <typeFullName>
+      <string>LaneChanger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b61e520273bc0de47835e686bce4bed0</guid>
+    <fileName>Assets/Scripts/MenuManager.cs</fileName>
+    <timeStamp>2020-11-23T00:25:30.4971379+08:00</timeStamp>
+    <typeFullName>
+      <string>MenuManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>101cf82f773d6ff4089f7a408482501c</guid>
+    <fileName>Assets/Scripts/MobileInput.cs</fileName>
+    <timeStamp>2020-11-19T17:49:14.8317727+08:00</timeStamp>
+    <typeFullName>
+      <string>MobileInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a9af5723e042ca47bf43400134fbce5</guid>
+    <fileName>Assets/Scripts/Obstacles.cs</fileName>
+    <timeStamp>2020-11-21T18:53:21.3753154+08:00</timeStamp>
+    <typeFullName>
+      <string>Obstacles</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>30d7b5a7831b49940a571f4464d719fd</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2020-11-23T00:25:30.4981368+08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6c6a2c0cefcf6f4e88e2861f0cea003</guid>
+    <fileName>Assets/Scripts/Score.cs</fileName>
+    <timeStamp>2020-11-22T17:52:13.7313642+08:00</timeStamp>
+    <typeFullName>
+      <string>Score</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34bbffdffd1154b4b9423940d1432257</guid>
+    <fileName>Assets/Scripts/SettingsMenu.cs</fileName>
+    <timeStamp>2020-11-22T23:31:44.1358526+08:00</timeStamp>
+    <typeFullName>
+      <string>SettingsMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5b883f354d0bb44a84e7a2358384fac</guid>
+    <fileName>Assets/Scripts/Sound.cs</fileName>
+    <timeStamp>2020-11-21T18:53:21.3763125+08:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ee1a4a5a246eb942b6693cfec6b4f71</guid>
+    <fileName>Assets/Scripts/TileManager.cs</fileName>
+    <timeStamp>2020-11-20T19:08:13.7275933+08:00</timeStamp>
+    <typeFullName>
+      <string>TileManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
