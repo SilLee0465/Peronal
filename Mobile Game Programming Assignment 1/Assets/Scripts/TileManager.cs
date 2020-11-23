@@ -8,8 +8,8 @@ public class TileManager : MonoBehaviour
     [SerializeField] private GameObject defaultTile;
     [SerializeField] private List<GameObject> tiles = new List<GameObject>();
 
-    private GameObject previousTile;
-    private GameObject currentTile;
+    [SerializeField] private GameObject previousTile;
+    [SerializeField] private GameObject currentTile;
     private GameObject triggerPoint;
     private Transform nextSpawnpoint;
 

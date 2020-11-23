@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     private float hurtTimer = 5.0f;
     public bool isHurt;
     public bool isDead;
-    float speed = 5.0f;
+    float speed = 20.0f;
 
     void Start()
     {
