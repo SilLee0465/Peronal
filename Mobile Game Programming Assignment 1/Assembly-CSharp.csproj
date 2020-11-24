@@ -58,6 +58,8 @@
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Obstacles.cs" />
+    <Compile Include="Assets\Scripts\LightmapBase.cs" />
+    <Compile Include="Assets\Scripts\LightmapPrefab.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\TileManager.cs" />
     <Compile Include="Assets\Scripts\LaneChanger.cs" />
@@ -66,8 +68,6 @@
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\MobileInput.cs" />
     <Compile Include="Assets\Scripts\SettingsMenu.cs" />
-    <Compile Include="Assets\Scripts\LightmapBase.cs" />
-    <Compile Include="Assets\Scripts\LightmapPrefab.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
