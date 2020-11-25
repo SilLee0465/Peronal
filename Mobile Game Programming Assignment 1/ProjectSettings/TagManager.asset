@@ -6,6 +6,7 @@ TagManager:
   tags:
   - deathObstacle
   - normalObstacle
+  - canvasForShop
   layers:
   - Default
   - TransparentFX

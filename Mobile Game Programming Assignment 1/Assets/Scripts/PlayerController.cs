@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if(!isDead)
+        if (!isDead)
         {
             #region mobile input check
             if (MobileInput.Instance.SwipeRight)
@@ -69,9 +69,14 @@ public class PlayerController : MonoBehaviour
         {
             //game Over
             FindObjectOfType<AudioManager>().Play("Death");
-            hitBoxes.SetActive(false);
+            hitboxStatus(false);
             gameOver.SetActive(true);
             animator.Play("Death");
         }
+    }
+
+    public void hitboxStatus(bool status)
+    {
+        hitBoxes.SetActive(status);
     }
 }

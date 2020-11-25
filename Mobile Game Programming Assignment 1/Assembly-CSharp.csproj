@@ -63,11 +63,13 @@
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\TileManager.cs" />
     <Compile Include="Assets\Scripts\LaneChanger.cs" />
+    <Compile Include="Assets\Scripts\PowerUps.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\CameraShake.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\MobileInput.cs" />
     <Compile Include="Assets\Scripts\SettingsMenu.cs" />
+    <Compile Include="Assets\Scripts\Shop.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
